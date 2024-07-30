@@ -5,4 +5,6 @@ leapsim/wandb
 leapsim.egg-info
 isaacgym/
 .vscode
-*.pyc   
+*.pyc
+
+.idea/
